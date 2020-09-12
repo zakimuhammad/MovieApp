@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="ratings">rating</string>
+    <string name="this_is_description">deskripsi</string>
+    <string name="poster_detail">Poster Detail</string>
+    <string name="icon_rating_image">Icon Rating Image</string>
+    <string name="date">Date</string>
+    <string name="icon_date">Icon Date</string>
+    <string name="lorem_ipsum">Overview</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="tvshow_catalog">TVShow Catalog</string>
+    <string name="unknown">Unknown</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter the movie title</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="content_desc">Poster or Backdrop</string>
+    <string name="cancel_alarm">Repeating alarm canceled</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminder_message">Hey we miss you, Please comeback!</string>
+
+    <string name="setting">Setting</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="choose_your_language">Change Language</string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_movies">New Movies</string>
+    <string name="unknown_uri">Unknown URI %1s</string>
+</resources>

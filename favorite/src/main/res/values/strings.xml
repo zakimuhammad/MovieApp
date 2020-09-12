@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_rating_image">Icon rating image</string>
+    <string name="ratings">rating</string>
+    <string name="icon_date">Icon Date</string>
+    <string name="date">Date</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="poster_detail">Detail poster</string>
+    <string name="title_movies">Movie</string>
+    <string name="this_is_description">This is description</string>
+    <string name="title_tvshow">TvShow</string>
+    <string name="favorite">Favorite</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="unknown">Unknown</string>
+</resources>

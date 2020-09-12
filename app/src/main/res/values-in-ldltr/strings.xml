@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tvshow">Siaran TV</string>
+    <string name="ratings">Rating</string>
+    <string name="this_is_description">deskripsi</string>
+    <string name="poster_detail">Detail Poster</string>
+    <string name="icon_rating_image">Ikon gambar rating</string>
+    <string name="date">Tahun</string>
+    <string name="icon_date">Ikon Tahun</string>
+    <string name="lorem_ipsum">Ringkasan</string>
+    <string name="movie_catalog">Katalog Film</string>
+    <string name="tvshow_catalog">Katalog Siaran TV</string>
+    <string name="unknown">Tidak Diketahui</string>
+    <string name="favorite">Favorit</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan judul film</string>
+
+    <string name="appwidget_text">Contoh</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="no_data_available">Tidak ada data</string>
+
+
+    <string name="content_desc">Poster atau Backdrop</string>
+    <string name="cancel_alarm">Alarm berulang dibatalkan</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="reminder_message">Hey kami merindukanmu, ayo kembali</string>
+
+    <string name="setting">Pengaturan</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="choose_your_language">Pilih Bahasamu</string>
+    <string name="english">Inggris</string>
+    <string name="indonesian">Indonesia</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+
+    <string name="new_movies">Film Baru</string>
+    <string name="unknown_uri">URI tidak diketahui %1s</string>
+</resources>
