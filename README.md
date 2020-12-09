@@ -8,10 +8,10 @@ This Application made with:
 3. Retrofit
 
 ## List Page
-![alt text](https://github.com/zakimuhammad/MovieApp/blob/main/image/1.jpg)
+<img src="https://github.com/zakimuhammad/MovieApp/blob/main/image/1.jpg" width="50%">
 
 ## Favorite Page
-![alt text](https://github.com/zakimuhammad/MovieApp/blob/main/image/2.jpg)
+<img src="https://github.com/zakimuhammad/MovieApp/blob/main/image/2.jpg" width="50%">
 
 ## Detail Page
-![alt text](https://github.com/zakimuhammad/MovieApp/blob/main/image/3.jpg)
+<img src="https://github.com/zakimuhammad/MovieApp/blob/main/image/3.jpg" width="50%">
